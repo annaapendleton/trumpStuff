@@ -1,0 +1,47 @@
+@import url(https://fonts.googleapis.com/css?family=Zilla+Slab);
+#title{
+    color: white;
+    font-family: 'Zilla Slab', serif;
+    text-align: center;
+    font-size: 500%;
+}
+#jumbotron{
+    background-color:navy;
+    size:1000px
+}
+#body{
+    background-image: url("8.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 0 px 50 px
+}
+#caption{
+    color: white;
+    background-color:none;
+    position: absolute;
+    bottom: 90px;
+    text-align: center;
+    left:200px;
+    right:200px;
+    font-family: 'Zilla Slab', serif;
+    
+    
+}
+#button{
+    position: absolute;
+    left: 590px;
+    bottom: 200px;
+    width: 175px;
+    height: 175px;
+    background-image: url("trump.png");
+    background-size:100%;
+    background-repeat: no-repeat;
+    border-style: none;
+    
+    
+    
+  
+    
+    
+}
